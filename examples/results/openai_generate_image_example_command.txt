@@ -1,0 +1,7 @@
+python3 tools/image/openai_generate_image.py \
+  --prompt "Character concept art, ultra-detailed, cinematic, elegant realism, ..." \
+  --out assets/images/generated/three-kingdoms/shen-he/openai-v1.png \
+  --size 1024x1536 \
+  --quality high \
+  --output-format png \
+  --meta-out examples/results/openai-image-meta-shen-he.json
