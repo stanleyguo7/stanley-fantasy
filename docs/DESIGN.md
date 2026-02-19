@@ -58,3 +58,5 @@ characters/<character-id>/
 - 提供 `scripts/new_character.sh` 一键建角
 - 提供 `scripts/check_consistency.py` 设定一致性检查
 - 提供 `docs/INTERVIEW_FLOW.md` 标准访谈提纲
+- 提供问卷化流程：`docs/forms/CHARACTER_BACKGROUND_QUESTIONNAIRE_v1.md`
+- 提供世界观候选库：`docs/WORLDVIEW_CATALOG.md`
