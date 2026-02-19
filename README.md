@@ -45,3 +45,23 @@ stanley-fantasy/
 - 角色一致性检查
 - 记忆更新策略
 - 多媒体素材规范
+
+
+## 目录导航（已整理）
+
+- `docs/worldviews/`：世界观设定与事件库
+- `docs/forms/`：背景与外观问卷
+- `docs/character-design/`：身份/家庭/关系模板与外观系统
+- `tools/`：提示词与生图工具（见 `tools/README.md`）
+- `scripts/`：内容批量生成与精修脚本（见 `scripts/README.md`）
+- `assets/images/generated/`：生成图片素材归档
+
+## 视觉生成最短流程
+
+1. 准备问卷结果 JSON（示例在 `examples/`）
+2. 运行问卷桥接：
+   - `python3 tools/prompting/from_questionnaire_to_prompt.py --input ... --output ...`
+3. 选择生图引擎：
+   - OpenAI：`python3 tools/image/openai_generate_image.py ...`
+   - 即梦：`python3 tools/image/jimeng_generate_image.py ...`
+4. 结果入库到 `assets/images/generated/<worldview>/<character>/`
