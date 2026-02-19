@@ -1,0 +1,84 @@
+{
+  "questionnaire_selection": {
+    "worldview": "three_kingdoms",
+    "character_name": "沈禾",
+    "identity": "渡口船行女账房",
+    "gender_expression": "female",
+    "quality": "ultra-detailed, cinematic, elegant realism, high texture fidelity",
+    "style": "refined historical portrait, graceful but grounded",
+    "appearance": {
+      "age_band": "young adult",
+      "body": "medium height, lean and resilient from dockside work, practical posture",
+      "face": "oval face, straight brows, calm sharp eyes, faint old scar near right temple, subtle sun-touched skin",
+      "hair": "black long hair tied into a low functional knot with cloth ribbon, a few loose strands in river wind",
+      "vibe": "calm, vigilant, intelligent, quietly compassionate",
+      "outfit": "hemp inner shirt, dark indigo outer robe with narrow sleeves, weathered leather waist belt, practical skirt-pants suited for ferry docks",
+      "accessories": "abacus pouch at waist, wax-sealed ledger book, bronze key ring, plain cloth wrist guard",
+      "background": "river ferry checkpoint at dusk, wooden piers, cargo boats, distant county gate with watchfire, subtle mist over water",
+      "pose": "one hand holding a ledger, the other hand pressing robe edge against river wind, looking toward an incoming ferry",
+      "camera": "full-body 3/4 portrait, eye-level, 50mm lens, cinematic composition"
+    },
+    "narrative": {
+      "first_impression": "看起来温和克制，但眼神里有长期处理风险账目的警觉。",
+      "closeup_desc": "她的眼神总是先看货单再看人，右鬓旧伤不显眼，却让面部线条多了几分冷静。",
+      "fullbody_desc": "衣着以耐磨实用为主，行走稳而快，腰间算袋与账册说明她在渡口体系中的关键位置。",
+      "prop_story": "这本账册记录过一次洪水夜的物资转运名单，她因此救下了几十户沿岸百姓。"
+    },
+    "negative_prompt": [
+      "lowres",
+      "blurry",
+      "deformed hands",
+      "extra fingers",
+      "bad anatomy",
+      "watermark",
+      "text overlay",
+      "logo",
+      "modern building",
+      "electric light poles",
+      "plastic materials"
+    ]
+  },
+  "mapped_prompt_input": {
+    "worldview": "three_kingdoms",
+    "character_name": "沈禾",
+    "identity": "渡口船行女账房",
+    "gender_expression": "female",
+    "age_band": "young adult",
+    "body": "medium height, lean and resilient from dockside work, practical posture",
+    "face": "oval face, straight brows, calm sharp eyes, faint old scar near right temple, subtle sun-touched skin",
+    "hair": "black long hair tied into a low functional knot with cloth ribbon, a few loose strands in river wind",
+    "vibe": "calm, vigilant, intelligent, quietly compassionate",
+    "outfit": "hemp inner shirt, dark indigo outer robe with narrow sleeves, weathered leather waist belt, practical skirt-pants suited for ferry docks",
+    "accessories": "abacus pouch at waist, wax-sealed ledger book, bronze key ring, plain cloth wrist guard",
+    "background": "river ferry checkpoint at dusk, wooden piers, cargo boats, distant county gate with watchfire, subtle mist over water",
+    "pose": "one hand holding a ledger, the other hand pressing robe edge against river wind, looking toward an incoming ferry",
+    "camera": "full-body 3/4 portrait, eye-level, 50mm lens, cinematic composition",
+    "quality": "ultra-detailed, cinematic, elegant realism, high texture fidelity",
+    "style": "refined historical portrait, graceful but grounded",
+    "negative_prompt": [
+      "lowres",
+      "blurry",
+      "deformed hands",
+      "extra fingers",
+      "bad anatomy",
+      "watermark",
+      "text overlay",
+      "logo",
+      "modern building",
+      "electric light poles",
+      "plastic materials"
+    ]
+  },
+  "narrative_notes": {
+    "first_impression": "看起来温和克制，但眼神里有长期处理风险账目的警觉。",
+    "closeup_desc": "她的眼神总是先看货单再看人，右鬓旧伤不显眼，却让面部线条多了几分冷静。",
+    "fullbody_desc": "衣着以耐磨实用为主，行走稳而快，腰间算袋与账册说明她在渡口体系中的关键位置。",
+    "prop_story": "这本账册记录过一次洪水夜的物资转运名单，她因此救下了几十户沿岸百姓。"
+  },
+  "generated_prompt": {
+    "prompt": "Character concept art, ultra-detailed, cinematic, elegant realism, high texture fidelity, refined historical portrait, graceful but grounded. Subject: 沈禾, young adult, female, identity: 渡口船行女账房. Appearance: medium height, lean and resilient from dockside work, practical posture; oval face, straight brows, calm sharp eyes, faint old scar near right temple, subtle sun-touched skin; black long hair tied into a low functional knot with cloth ribbon, a few loose strands in river wind; overall vibe: calm, vigilant, intelligent, quietly compassionate. Outfit: hemp inner shirt, dark indigo outer robe with narrow sleeves, weathered leather waist belt, practical skirt-pants suited for ferry docks; accessories: abacus pouch at waist, wax-sealed ledger book, bronze key ring, plain cloth wrist guard. Worldview: 三国时期. Era and lore cues: late Han to Three Kingdoms era; ancient Chinese historical drama aesthetics; war-torn prefecture towns and military camps. Costume constraints: hanfu-inspired layered robes for civilians; lamellar armor, cloth wraps, leather belts for military roles; muted earth palette: ink black, hemp beige, iron gray, dark red; materials: linen, rough silk, leather, bronze fittings. Background scene: river ferry checkpoint at dusk, wooden piers, cargo boats, distant county gate with watchfire, subtle mist over water; scene constraints: county town gate, military granary, riverside ferry, mountain post road; no modern buildings, no electric lights, no plastic. Pose and action: one hand holding a ledger, the other hand pressing robe edge against river wind, looking toward an incoming ferry. Lighting and atmosphere: cinematic natural light; dusty atmosphere, soft haze. Camera and composition: full-body 3/4 portrait, eye-level, 50mm lens, cinematic composition; shallow depth of field, cinematic composition.",
+    "negative_prompt": "lowres, blurry, deformed hands, extra fingers, bad anatomy, watermark, text overlay, logo, modern building, electric light poles, plastic materials",
+    "worldview": "three_kingdoms",
+    "worldview_name": "三国时期"
+  }
+}
