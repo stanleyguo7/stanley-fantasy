@@ -1,0 +1,116 @@
+worldviews:
+  three_kingdoms:
+    name: "三国时期"
+    era_keywords:
+      - "late Han to Three Kingdoms era"
+      - "ancient Chinese historical drama aesthetics"
+      - "war-torn prefecture towns and military camps"
+    costume_rules:
+      - "hanfu-inspired layered robes for civilians"
+      - "lamellar armor, cloth wraps, leather belts for military roles"
+      - "muted earth palette: ink black, hemp beige, iron gray, dark red"
+      - "materials: linen, rough silk, leather, bronze fittings"
+    background_rules:
+      - "county town gate, military granary, riverside ferry, mountain post road"
+      - "no modern buildings, no electric lights, no plastic"
+    lighting_style:
+      - "cinematic natural light"
+      - "dusty atmosphere, soft haze"
+
+  contemporary_china:
+    name: "当代中国（2020s）"
+    era_keywords:
+      - "contemporary Chinese urban life"
+      - "realistic social documentary mood"
+    costume_rules:
+      - "functional modern clothing matching occupation"
+      - "clean layering with subtle textures"
+      - "palette from neutral city tones with one accent color"
+    background_rules:
+      - "residential community, subway exit, convenience store street, office district"
+      - "accurate modern props: smartphones, signage, public transport"
+    lighting_style:
+      - "golden-hour city light or soft overcast daylight"
+
+  china_1980s:
+    name: "中国80年代"
+    era_keywords:
+      - "1980s China reform-era atmosphere"
+      - "film-grain nostalgic realism"
+    costume_rules:
+      - "simple practical clothing, era-accurate silhouettes"
+      - "cotton jackets, plain shirts, dark trousers, cloth shoes"
+    background_rules:
+      - "factory courtyard, state-owned compound, county market"
+      - "no modern digital devices"
+    lighting_style:
+      - "slightly warm nostalgic tones"
+
+  china_1990s:
+    name: "中国90年代"
+    era_keywords:
+      - "1990s China market-transition city vibe"
+      - "semi-documentary cinematic realism"
+    costume_rules:
+      - "90s practical streetwear, workwear and business casual mix"
+      - "pager-era accessories, simple bags, worn textures"
+    background_rules:
+      - "wholesale market, old bus station, early commercial street"
+      - "no smartphones"
+    lighting_style:
+      - "humid city haze, sodium streetlight nights"
+
+  five_dynasties_ten_kingdoms:
+    name: "五代十国"
+    era_keywords:
+      - "10th century fragmented dynastic China"
+      - "historical realism with political instability"
+    costume_rules:
+      - "regional mixed styles, practical layered robes"
+      - "weathered fabric, patched garments for civilians"
+    background_rules:
+      - "fortified town walls, caravan rest points, river checkpoints"
+      - "no anachronistic architecture"
+    lighting_style:
+      - "moody cloudy light, torch-lit interiors"
+
+  condor_heroes:
+    name: "射雕英雄传范式"
+    era_keywords:
+      - "wuxia jianghu atmosphere"
+      - "Song-Jin frontier tension"
+    costume_rules:
+      - "jianghu travel outfits, layered robes, waist sashes"
+      - "heroic but practical, movement-friendly silhouettes"
+    background_rules:
+      - "inn courtyards, bamboo forests, river ferries, frontier towns"
+      - "martial world props: swords, wine gourds, travel bundles"
+    lighting_style:
+      - "poetic cinematic light with wind and dust"
+
+  smiling_proud_wanderer:
+    name: "笑傲江湖范式"
+    era_keywords:
+      - "sect politics and jianghu intrigue"
+      - "wuxia realism with moral ambiguity"
+    costume_rules:
+      - "sect-coded robes, understated elegance with hidden sharpness"
+      - "high contrast between orthodox and wanderer styling"
+    background_rules:
+      - "mountain sect gate, martial hall, rain-soaked stone paths"
+    lighting_style:
+      - "dramatic chiaroscuro with mist"
+
+  harry_potter:
+    name: "哈利波特范式"
+    era_keywords:
+      - "British wizarding world atmosphere"
+      - "magical boarding school gothic fantasy"
+    costume_rules:
+      - "school robes or wizarding attire with house color accents"
+      - "wand holster, scarves, layered knit textures"
+    background_rules:
+      - "castle corridors, candlelit halls, potion classroom, wizarding alley"
+      - "no modern non-magical tech focus"
+    lighting_style:
+      - "warm candlelight plus cool moonlight contrast"
