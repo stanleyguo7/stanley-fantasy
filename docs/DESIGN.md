@@ -60,3 +60,9 @@ characters/<character-id>/
 - 提供 `docs/INTERVIEW_FLOW.md` 标准访谈提纲
 - 提供问卷化流程：`docs/forms/CHARACTER_BACKGROUND_QUESTIONNAIRE_v1.md`
 - 提供世界观候选库：`docs/WORLDVIEW_CATALOG.md`
+
+
+## 7. 问卷流程升级（v2）
+- 首题改为“具体世界观单选”
+- 第二步根据世界观文档选择角色类型
+- 参考：`docs/worldviews/README.md` 与 `docs/forms/CHARACTER_BACKGROUND_QUESTIONNAIRE_v2.md`
